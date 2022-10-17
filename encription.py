@@ -1,5 +1,5 @@
 import random
-
+#simple encryption code 
 msg ="my name is error"
 print(msg)
 key = ''
@@ -37,3 +37,10 @@ for char in encrypted_msg:
     else:
         key_index += 1
 print(f'Decrypted message: {decrypted_msg}')         
+
+
+
+
+
+
+
